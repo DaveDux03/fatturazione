@@ -5,6 +5,8 @@ namespace SistemaFatturazione
 {
     class Program
     {
+
+        //ciao 
         static List<Cliente> clienti = new List<Cliente>();
         static List<Prodotto> prodotti = new List<Prodotto>();
         static Cliente clienteCorrente = null;
